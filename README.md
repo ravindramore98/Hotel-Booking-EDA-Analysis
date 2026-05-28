@@ -46,6 +46,15 @@ Some important features in the dataset are:
 
 ---
 
+## Project Structure
+
+```bash
+├── Dataset
+├── Notebook
+├── Presentation
+└── README.md
+```
+
 ## Project Workflow
 
 ### Data Cleaning
